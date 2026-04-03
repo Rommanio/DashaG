@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 group-title="Общие",Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общие",1 канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+1)
+https://livetv.mylifeisgood.net.ru/channels/russia1-1.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+2)
+https://livetv.mylifeisgood.net.ru/channels/russia1-2.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+3)
+https://livetv.mylifeisgood.net.ru/channels/russia1-3.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+4)
+https://livetv.mylifeisgood.net.ru/channels/russia1-4.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+5)
+https://livetv.mylifeisgood.net.ru/channels/russia1-5.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+6)
+https://livetv.mylifeisgood.net.ru/channels/russia1-6.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+7)
+https://livetv.mylifeisgood.net.ru/channels/russia1-7.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+8)
+https://livetv.mylifeisgood.net.ru/channels/russia1-8.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+9)
+https://livetv.mylifeisgood.net.ru/channels/russia1-9.m3u8
+
+#EXTINF:-1 group-title="Общие",Россия Культура HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+#EXTINF:-1 group-title="Общие",НТВ HD
+https://livetv-app.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="Общие",НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Общие",НТВ +2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Общие",НТВ +4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ +7
+http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Сериал HD
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит HD
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Общие",НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Общие",НТВ Стиль
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="Кино",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="Кино",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="Кино",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="Кино",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="Кино",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="Кино",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кино",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-1 group-title="Общие",ТВ3 HD
+https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
+
+#EXTINF:-1 group-title="Общие",ТВ Центр
+http://5.188.221.43:8080/play/tv-centr
+
+#EXTINF:-1 group-title="Общие",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Мир
+http://185.46.16.239:8000/Mir
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Общие",Мир +2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +4.png" group-title="Общие",Мир +4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +7.png" group-title="Общие",Мир +7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="Общие",Мир 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Общие",Рен ТВ
+http://185.46.16.239:8000/REN_TV
+
+#EXTINF:-1 group-title="Общие",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1 group-title="Общие",ТНТ HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
+
+#EXTINF:-1 group-title="Музыка",Муз ТВ HD
+https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
+
+#EXTINF:-1 group-title="Общие",ТНТ4 HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnt4.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Че!.png" group-title="Развлекательные",Че!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://195.26.83.96:7009/play/89/index.m3u8
+
+#EXTINF:-1 group-title="Новости",Соловьев Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новости",Известия HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
