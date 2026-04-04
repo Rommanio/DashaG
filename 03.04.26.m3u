@@ -274,48 +274,20 @@ https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал
 https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал (+2)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал (+7)
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Общие",Рен ТВ
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие",РЕН ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",Рен ТВ +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",Рен ТВ +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",ТНТ
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",ТНТ HD
 https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ4
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ4 (+2)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТНТ4 (+4)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8	
-#EXTINF:-1 group-title="Общие",ТНТ4 (+7)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",ТНТ4 HD
 https://livetv-app.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Общие",Россия К
@@ -326,14 +298,7 @@ https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Общие",НТВ МИР
 https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Общие",НТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",НТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 group-title="Общие",НТВ Стиль
@@ -344,93 +309,35 @@ https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",РТР-Планета
 https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1 (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1 (+8)
-https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Общие",Центральное Телевидение
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",ТВЦ
 https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТВ Центр (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТВЦ +4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТВЦ +7
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",ТВ 3 International
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",ТВ3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТВ3 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТВ3 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",ТВ3 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",ТВ3 HD
 https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 group-title="Общие",Домашний International
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общие",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Общие",Домашний +2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",Домашний +4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",Домашний +7
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",Пятница International
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",Пятница
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Общие",Пятница! (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",Пятница! (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",Пятница! (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",СТС International
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Общие",СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",СТС (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",СТС (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+
 
 #EXTINF:-1 group-title="Общие",СТС HD
 
-#EXTINF:-1 group-title="Общие",СТС Love
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",Пятый канал
 https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие",Пятый канал (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",Пятый канал (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",Пятый канал (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Общие",Звезда (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="Общие",Звезда (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие",Звезда (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общие",Звезда Плюс
@@ -445,17 +352,14 @@ https://ucdn.beetv.kz/bpk-tv/000002557/tve/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие",Перец
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",Че! (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+
 
 #EXTINF:-1 group-title="Общие",ОТР
 
-#EXTINF:-1 group-title="Общие",Ю (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",Ключ
 https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGkJGJzr/image-44.png" group-title="Развлечение",Экспресс
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Развлечение",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Развлечение" ,ПОЕХАЛИ!
@@ -696,22 +600,7 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 
 #EXTINF:-1 group-title="Детям" ,Детское кино International
 
-#EXTINF:-1 group-title="Детям" ,Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Детям" ,Карусель (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Детям" ,Карусель (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Детям" ,Карусель (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+
 #EXTINF:-1 group-title="Детям" ,Balapan
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 group-title="Религия" ,Спас
@@ -726,12 +615,8 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,ТНВ-Планета
 https://ucdn.beetv.kz/bpk-tv/000000418/tve/index.m3u8
-#EXTINF:-1 group-title="Региональные" ,Майдан
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные" ,Татарстан-24
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" ,ЮТВ Чебоксары
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+
+
 
 #EXTINF:-1 group-title="Региональные" ,Миллет
 
@@ -741,28 +626,15 @@ http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Салям HD
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 group-title="Региoнальные",Татарстан-24
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные",TMTV
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные",Туган Тел
-http://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+
+
 #EXTINF:-1 group-title="Региональные" ,Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,БСТ HD
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" ,Башкортостан 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" ,Кавказ 24
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" ,РГВК Дагестан
-https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные" ,Осетия-Ирыстон HD
-https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные",Архыз-24 HD
-http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные",Архыз-24 Light (Карачаево-Черкесия)
-http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
+
 #EXTINF:-1 group-title="Региональные" ,Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,QAZAQSTAN HD
