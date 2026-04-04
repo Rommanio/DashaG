@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Общие",Первый канал Int
-https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общие",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Общие",Первый канал Int
+https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",РТР-Планета Int
 https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1 HD
