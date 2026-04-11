@@ -43,8 +43,6 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Общие",Пятый канал Int
 https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
-#EXTINF:-1 group-title="Общие" ,Пятый канал (+4)
-http://api.peers.tv/timeshift/5kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
 #EXTINF:-1 group-title="Общие",НТВ HD
 https://livetv-app.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="Общие",НТВ МИР Int
@@ -124,8 +122,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Общие" ,ТВЦ (+4)
-http://api.peers.tv/timeshift/tvc/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
 #EXTINF:-1 group-title="Общие",Рен ТВ Int
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Звезда HD
@@ -138,11 +134,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",СТС Int
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
-#EXTINF:-1 group-title="Общие" ,СТС
-http://api.peers.tv/timeshift/sts/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
-#EXTINF:-1 group-title="Общие",СТС love
-http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
-#EXTINF:-1 group-title="Большое ТВ (VPN)",СТС Love
+#EXTINF:-1 group-title="Общие",СТС Love
 http://95.181.17.14/dvr02/mobile2/sts_love/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNjo1MTo0NCBBTSZoYXNoX3ZhbHVlPWtsOS9hbXRNNmRySzQ4Ymx2L2d2RXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Общие",Пятница Int
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
@@ -163,8 +155,6 @@ https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jVQFbhS5-99IUd2CMC2fTw&e=2075026756&scheme=https
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю
 https://livetv-app.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
-#EXTINF:-1 group-title="Общие" ,Ю (+4)
-http://api.peers.tv/timeshift/utv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
 #EXTINF:-1 group-title="Общие",Центральное Телевидение
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ HD
