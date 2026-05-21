@@ -9,6 +9,26 @@ https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+2)
+http://89.218.32.179:18000/play/a01s
+#EXTINF:-1 group-title="Общие", Россия 1 (+1)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+2)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+3)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+4)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+6)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+7)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+8)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие", Россия 1 (+9)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Общие",Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Общие",Россия К Int
@@ -75,6 +95,9 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Общие",ТВ 3 Int
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=wc2lxs8E3F2M8o_Zck0uTg&e=2079350331&scheme=https
 #EXTINF:-1 group-title="Общие",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие",МИР Int
@@ -110,21 +133,43 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",СТС Int
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",СТС Love
+http://95.181.17.14/dvr02/mobile2/sts_love/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI2IDc6NTc6NDAgQU0maGFzaF92YWx1ZT0vcWJiZlY4VTZ2ckdZNmlDVWNEbFpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Общие",Среда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=85S1boa8AU9oQOlUI0Erqw&e=2079350355&scheme=https
 #EXTINF:-1 group-title="Общие",Пятница Int
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Пятница HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=z2wTSeENXI_4KRYyS2Bqdw&e=2079350330&scheme=https
+#EXTINF:-1 group-title="Общие",Пятница!
+http://arbiter.bolshoe.tv/?path=streaming/friday/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI2IDc6NTc6NDAgQU0maGFzaF92YWx1ZT0vcWJiZlY4VTZ2ckdZNmlDVWNEbFpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Общие",Суббота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=EyFeMl0b8JXZJFUBrnX0LQ&e=2079350333&scheme=https
 #EXTINF:-1 group-title="Общие",Перец Int
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ Int
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=7Ju4-rSMdnfKwL5SXzz4PA&e=2079350328&scheme=https
 #EXTINF:-1 group-title="Общие",ТНТ4 Int
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tswiQcMZJgHLjB1i9eZRNg&e=2079350329&scheme=https
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю (Рутюб)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jVQFbhS5-99IUd2CMC2fTw&e=2075026756&scheme=https
 #EXTINF:-1 group-title="Общие",Центральное Телевидение
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=WAvCajqdchAMLcHlt7yRmA&e=2079350392&scheme=https
 
 #EXTINF:-1 group-title="Общие",СТС HD
 
@@ -143,7 +188,8 @@ https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV 1000 Action HD
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
-
+#EXTINF:-1 group-title="Кино",Viju TV1000 Romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=C5Wsi294DTigZMvRUoE5HA&e=1780163143&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино",Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ HD
@@ -194,7 +240,15 @@ http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 #EXTINF:-1 group-title="Кино",CPS Fresh HD
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-
+#EXTINF:-1 group-title="Кино",Киножелезо
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=DxbjTzmkhg_k5ps2j49vuw&e=2079350340&scheme=https
+#EXTINF:-1 group-title="Кино",Кинолаффка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=fiEJmxR8UnCFPuWoXB5TWQ&e=2079350342&scheme=https
+#EXTINF:-1 group-title="Кино",Кино и Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=0y4AXckANgiSFXonTWrleg&e=2079350342&scheme=https
 
 #EXTINF:-1 group-title="Кино",SD REX
 
@@ -209,6 +263,7 @@ https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 group-title="Кино",Хит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
+
 #EXTINF:-1 group-title="Кино",Русский Роман
 
 #EXTINF:-1 group-title="Кино",Русский Бестселлер
@@ -299,8 +354,8 @@ https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Семейные Мелодрамы
 https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
-#EXTINF:-1 group-title="Общие",ОТР
-
+#EXTINF:-1 group-title="Кино" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Развлечение",Ключ
 https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Ностальгия 
@@ -309,6 +364,7 @@ https://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Развлечение" ,ПОЕХАЛИ!
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
+
 #EXTINF:-1 group-title="Развлечение" ,Сарафан
 
 #EXTINF:-1 group-title="Наука" ,Планета HD
@@ -317,10 +373,14 @@ https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Extreme Russian
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
+#EXTINF:-1 group-title="Хобби",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=nzeCrd8gT8oYKt7gZ1KFsw&e=2079350335&scheme=https
 #EXTINF:-1 group-title="Хобби" ,Рыбалка и охота
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 group-title="Хобби" ,Диалоги о Рыбалке
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
+
 #EXTINF:-1 group-title="Хобби",Дикая Рыбалка HD
 
 #EXTINF:-1 group-title="Хобби",Дикая охота HD
@@ -384,7 +444,11 @@ https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Загородная жизнь HD
 https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Загородный Int
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=YvWdQDnJRm8gl6u0_4k1mg&e=2079350337&scheme=https
+#EXTINF:-1 group-title="Развлечение",Тайна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=6RIHcjDrUkA3IfwSQiQ33g&e=2079350340&scheme=https
 #EXTINF:-1 group-title="Развлечение" ,Телекафе
 https://ucdn.beetv.kz/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,МОДА
@@ -464,19 +528,43 @@ https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=LL
 https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,MCM Top
 https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge Deluxe
-
+#EXTINF:-1 group-title="Музыка",МузТВ
+http://89.218.32.179:18000/play/a01n
+#EXTINF:-1 group-title="Музыка",BRIDGE
+http://89.218.32.179:18000/play/a02k
+#EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
+http://89.218.32.179:18000/play/a02g
+#EXTINF:-1 group-title="Музыка",BRIDGE TV DELUXE
+http://89.218.32.179:18000/play/a02m
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Этно
+http://89.218.32.179:18000/play/a02n
+#EXTINF:-1 group-title="Музыка",BRIDGE TV FRESH
+http://89.218.32.179:18000/play/a02j
+#EXTINF:-1 group-title="Музыка",BRIDGE TV HITS
+http://89.218.32.179:18000/play/a02f
+#EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK
+http://89.218.32.179:18000/play/a02i
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Русский Хит
+http://89.218.32.179:18000/play/a02l
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Шлягер
+http://89.218.32.179:18000/play/a02h
 #EXTINF:-1 group-title="Музыка",Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge TV Classic 
-
+#EXTINF:-1 group-title="Музыка",BRIDGE TV
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Музыка",BABY TIME
+http://89.218.32.179:18000/play/a028
 #EXTINF:-1 group-title="Музыка",Европа плюс ТВ
-
-
-#EXTINF:-1 group-title="Музыка", Bridge Fresh
-
+http://arbiter.bolshoe.tv/?path=streaming/europaplus/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDI2IDc6NTc6NDAgQU0maGFzaF92YWx1ZT0vcWJiZlY4VTZ2ckdZNmlDVWNEbFpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="Музыка",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PXfcSpn/image-22.png" group-title="Спорт",Fight TV Plus
 https://rpn.bozztv.com/gusa/gusa-fighttvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTxqD1rq/image-43.png" group-title="Спорт",KHL HD
@@ -487,6 +575,9 @@ https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/kxl/1/index.m3u8
 #EXTINF:-1 group-title="Спорт", MMA-TV.com
 https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Волейбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=J-48zj8JeVUYOJwqtUdNcg&e=2079350435&scheme=https
 
 
 #EXTINF:-1 group-title="Спорт",Конный мир
@@ -499,6 +590,8 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
 
 #EXTINF:-1 group-title="Спорт",Матч! HD
@@ -576,8 +669,8 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #EXTINF:-1 group-title="Детям" ,Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-
 #EXTINF:-1 group-title="Детям" ,Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 group-title="Детям" ,Balapan
@@ -614,6 +707,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" ,Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:-1 group-title="Региональные",Вся Уфа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=m9z7F40WGem6WP19Q7Dz7g&e=2079350353&scheme=https
 #EXTINF:-1 group-title="Региональные",Матур ТВ HD
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Региональные",Maidan TV HD
