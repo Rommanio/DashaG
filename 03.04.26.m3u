@@ -8,10 +8,10 @@ https://streaming.thestream.cyou/live/210.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",РТР-Планета Int
 https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1
 http://109.207.243.18/2/index.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Общие" ,Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 #EXTINF:-1 group-title="Общие" ,Смотрим 100% Мужское
