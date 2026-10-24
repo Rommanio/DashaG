@@ -127,6 +127,8 @@ https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Рен ТВ
 http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общие" ,Рен ТВ
+http://194.152.35.17/ren_tv/index.m3u8
 #EXTINF:-1 group-title="Общие",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общие",Звезда
@@ -271,6 +273,8 @@ http://dmi3y-tv.online/hls/CH_KINOTV.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosezon.png" group-title="Кино" ,КиноСезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Наш Киномир
 
@@ -284,8 +288,8 @@ http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Русский Роман
 http://185.46.16.239:8000/Russkiy_roman
-
 #EXTINF:-1 group-title="Кино",Русский Бестселлер
+http://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 
 #EXTINF:-1 group-title="Кино",Русский детектив
 
@@ -296,6 +300,8 @@ https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Про любовь
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="Кино" ,Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Русский Иллюзион
 https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Премиум Кино HD
@@ -437,6 +443,10 @@ http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Развлечение",Первый космический
 http://dmi3y-tv.online/hls/CH_1KOSMICHESKIY.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tayna.png" group-title="Развлечение" ,Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
+#EXTINF:-1 tvg-name="Неизвестная Планета" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png" group-title="Развлечение" ,Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", DocuBox
 
@@ -485,14 +495,12 @@ https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" ,Мужской
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
-
 #EXTINF:-1 group-title="Хобби" ,Мужской
-
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Загородная жизнь HD
 https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
-
 #EXTINF:-1 group-title="Развлечение" ,Загородная жизнь
-
+http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Загородный Int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=YvWdQDnJRm8gl6u0_4k1mg&e=2079350337&scheme=https
@@ -549,10 +557,16 @@ https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыка",FON Music
 https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
-
-
-#EXTINF:-1 group-title="Музыка" ,Первый музыкальный
-
+#EXTINF:-1 group-title="Музыка", Жара
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="Музыка", Жара HD
+http://stream.mcquack.net/386/index.m3u8
+#EXTINF:-1 tvg-logo="https://online-red.com/images/tv/one-hd.png" group-title="Музыка",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://online-red.com/images/tv/one-hd.png" group-title="Музыка",Первый Музыкальный BY HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыка",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыка",Шансон ТВ
@@ -569,6 +583,10 @@ http://dmi3y-tv.online/hls/CH_RUTV.m3u8
 https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=LL2RyfeUS02q4w4Y4p_QbA&e=2075285615&scheme=https
 #EXTINF:-1 group-title="Музыка" ,Mezzo
 https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mezzo.png" group-title="Музыка" ,Mezzo
+http://live-3.otcnet.ru/Mezzo/index.m3u8
+#EXTINF:-1 group-title="Музыка", Mezzo Live HD
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,MCM Top
 https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,Trace Urban HD
@@ -596,16 +614,13 @@ http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV Шлягер
 
 #EXTINF:-1 group-title="Музыка",Bridge TV Hits
-
-
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 #EXTINF:-1 group-title="Музыка",BABY TIME
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Музыка",Европа плюс ТВ
 http://stream.mcquack.net/184/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY
-http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
@@ -635,7 +650,8 @@ https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Волейбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=J-48zj8JeVUYOJwqtUdNcg&e=2079350435&scheme=https
-
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="Спорт" ,ТВ Спорт
+http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Спорт",Конный мир
 
