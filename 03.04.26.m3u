@@ -16,8 +16,9 @@ http://109.207.243.18/2/index.m3u8
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1 (+2)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+
 #EXTINF:-1 group-title="Общие",Россия 1 (+4)
-http://dmi3y-tv.online/hls/T2/CH_RUSSIA1_4.m3u8
+
 #EXTINF:-1 group-title="Общие", Россия 1 (+6)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 (+7)
@@ -151,8 +152,9 @@ https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Пятница HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=z2wTSeENXI_4KRYyS2Bqdw&e=2079350330&scheme=https
+
 #EXTINF:-1 group-title="Общие",Пятница!
-http://arbiter.bolshoe.tv/?path=streaming/friday/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNiA3OjA3OjIyIEFNJmhhc2hfdmFsdWU9NVA4cjZOV2VQZTM2bnhVRVBYUGwyUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
 #EXTINF:-1 group-title="Общие",Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=EyFeMl0b8JXZJFUBrnX0LQ&e=2079350333&scheme=https
@@ -459,12 +461,14 @@ https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" ,Мужской
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
+
 #EXTINF:-1 group-title="Хобби" ,Мужской
-https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+
 #EXTINF:-1 group-title="Развлечение" ,Загородная жизнь HD
 https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
+
 #EXTINF:-1 group-title="Развлечение" ,Загородная жизнь
-https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+
 #EXTINF:-1 group-title="Развлечение" ,Загородный Int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=YvWdQDnJRm8gl6u0_4k1mg&e=2079350337&scheme=https
@@ -529,8 +533,9 @@ https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыка",Шансон ТВ
 https://ucdn.beetv.kz/bpk-tv/000000210/tve/index.m3u8
+
 #EXTINF:-1 group-title="Музыка",RU.TV
-http://5.188.159.128:8070/rutv/index.m3u8
+
 #EXTINF:-1 group-title="Музыка",RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=6qubqy-0mq5vlBrXgIw2tg&e=2075285611&scheme=https
@@ -566,7 +571,8 @@ http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV Шлягер
 
 #EXTINF:-1 group-title="Музыка",Bridge TV Hits
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+
+
 #EXTINF:-1 group-title="Музыка",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 #EXTINF:-1 group-title="Музыка",BABY TIME
