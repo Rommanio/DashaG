@@ -198,9 +198,9 @@ https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV 1000 Action HD
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 
-#EXTINF:-1 group-title="Кино",Viju TV1000 Новелла HD
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/9849.png",Viju TV1000 Новелла HD
 
-#EXTINF:-1 group-title="Кино",Viju TV1000 Romantica HD
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/10253.png",Viju TV1000 Romantica HD
 
 #EXTINF:-1 group-title="Кино",Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
@@ -216,7 +216,7 @@ https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
 
-#EXTINF:-1 group-title="Кино",Кинопремьера HD
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/12101.png",Кинопремьера HD
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия HD
 
@@ -236,13 +236,13 @@ https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper
 http://kinowalk.hopto.org/movietoper_live
 
-#EXTINF:-1 group-title="Кино",MyTV
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/8212.png",MyTV
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/239?unique=2026-03-03+11%3A23%3A02.745062&access_token=d5965f8e-534f-458b-9634-f0f3bec9d7d3",dj Zour
 http://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtnPSjY/image.png" group-title="Кино", Scripach TV
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 group-title="Кино",Киножелезо
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/11027.png",Киножелезо
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=DxbjTzmkhg_k5ps2j49vuw&e=2079350340&scheme=https
 #EXTINF:-1 group-title="Кино",Кинолаффка
@@ -268,16 +268,16 @@ https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Наш Киномир
 
-#EXTINF:-1 group-title="Кино",Шокирующее HD
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/0119.png",Шокирующее HD
 http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Fan HD
 http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Хит HD
 http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино",Блокбастер HD
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/6206.png",Блокбастер HD
 http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Кино",Русский Роман
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/6455.png",Русский Роман
 
 #EXTINF:-1 group-title="Кино",Русский Бестселлер
 
@@ -291,11 +291,11 @@ https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Премиум Кино HD
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Победа
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/6230.png",Победа
 https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,НСТ
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/6295.png",Мосфильм. Золотая коллекция
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Мировое Кино HD
 https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
@@ -303,7 +303,7 @@ https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Любимое Кино
 https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Киноман
+#EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/6229.png",Киноман
 https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Кинобоевик HD
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
@@ -461,7 +461,7 @@ https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Наша Тема
 https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Арсенал HD
+#EXTINF:-1 group-title="Развлечение" tvg-logo="http://1lot.tv/ch/0222.png",Арсенал HD
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" ,Мужской
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
@@ -699,7 +699,7 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 
 #EXTINF:-1 group-title="Детям" ,Cartoon Classics
 
-#EXTINF:-1 group-title="Детям" ,Детское кино International
+#EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/10821.png",Детское кино International
 
 
 
