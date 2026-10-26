@@ -158,7 +158,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=Ey
 #EXTINF:-1 group-title="Общие",Перец Int
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
 
-#EXTINF:-1 group-title="Общие",Че!
+#EXTINF:-1 group-title="Общие" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/167/logo_256.webp",Че!
 
 #EXTINF:-1 group-title="Общие" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_256.webp",ТНТ Int
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
@@ -238,7 +238,7 @@ http://kinowalk.hopto.org/movietoper_live
 
 #EXTINF:-1 group-title="Кино",MyTV
 
-#EXTINF:-1 group-title="Кино",dj Zour
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/239?unique=2026-03-03+11%3A23%3A02.745062&access_token=d5965f8e-534f-458b-9634-f0f3bec9d7d3",dj Zour
 http://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtnPSjY/image.png" group-title="Кино", Scripach TV
 http://kinowalk.hopto.org/scripachtv_live
@@ -257,8 +257,10 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=0y
 #EXTINF:-1 group-title="Кино",Фильмач
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=aTDZUkxtgKzjzV6sp5WJDA&e=2092566504&scheme=https
-#EXTINF:-1 group-title="Кино" ,Феникс+Кино
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png",Феникс+Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
+
 #EXTINF:-1 group-title="Кино" ,Сапфир HD
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 
@@ -353,7 +355,7 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,RTVi HD
 https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,ТВ21
+#EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17305/logo_256_1695723740.png",ТВ21
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,FilmUADrama
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
@@ -370,7 +372,7 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Развлечение",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 group-title="Развлечение",Союзный
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31249/logo_256.webp",Союзный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=OpNaQYBEODb2f0k5XupG0g&e=2092566508&scheme=https
 #EXTINF:-1 group-title="Развлечение" ,ПОЕХАЛИ!
@@ -379,7 +381,7 @@ https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Наука" ,Планета HD
 https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Живая природа HD
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10675/logo_256_1658734683.png",Живая природа HD
 https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Extreme Russian
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
@@ -388,7 +390,7 @@ https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=nzeCrd8gT8oYKt7gZ1KFsw&e=2079350335&scheme=https
 #EXTINF:-1 group-title="Хобби" ,Рыбалка и охота
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:-1 group-title="Хобби" ,Диалоги о Рыбалке
+#EXTINF:-1 group-title="Хобби" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10352/logo_256_1658734446.png",Диалоги о Рыбалке
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
 
 #EXTINF:-1 group-title="Хобби",Дикая Рыбалка HD
@@ -414,7 +416,7 @@ http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение",Investigation Discovery HD
 http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Глазами Туриста HD
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10676/logo_256_1660828620.png",Глазами Туриста HD
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение",Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
@@ -435,7 +437,7 @@ https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 group-title="Наука" ,Viju Explore HD
 https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:-1 group-title="Наука" ,Тайны галактики HD
+#EXTINF:-1 group-title="Наука" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png",Тайны галактики HD
 https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,TLC
 https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
@@ -463,18 +465,18 @@ https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" ,Мужской
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Загородная жизнь HD
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11159/logo_256_1655386039.png",Загородная жизнь HD
 https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Загородная жизнь
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11159/logo_256_1655386039.png",Загородная жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Загородный Int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=YvWdQDnJRm8gl6u0_4k1mg&e=2079350337&scheme=https
 #EXTINF:-1 group-title="Развлечение" ,Телекафе
 https://ucdn.beetv.kz/bpk-tv/000000206/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,МОДА
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10257/logo_256_1658733714.png",МОДА
 https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
-#EXTINF:-1 group-title="Новости" ,РБК
+#EXTINF:-1 group-title="Новости" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/112/logo_256_1658737400.png",РБК
 https://ucdn.beetv.kz/bpk-tv/000000091/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Народ всё видит
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
@@ -488,7 +490,7 @@ https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Ретро
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Аппетитный
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26734/logo_256_1718620692.png",Аппетитный
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Анекдот ТВ
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
@@ -502,7 +504,7 @@ https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000006639/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,БОБЕР
 https://ucdn.beetv.kz/bpk-tv/000001478/tve/index.m3u8
-#EXTINF:-1 group-title="Региональные" ,8 канал
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10081/logo_256_1658733465.png",8 канал
 https://ucdn.beetv.kz/bpk-tv/000001564/tve/index.m3u8
 
 
@@ -526,18 +528,18 @@ https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыка",FON Music
 https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
-#EXTINF:-1 group-title="Музыка", Жара HD
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10264/logo_256_1658734669.png",Жара HD
 http://stream.mcquack.net/386/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыка",Страна FM HD
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыка",Шансон ТВ
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/shanson-tv.png",Шансон ТВ
 https://ucdn.beetv.kz/bpk-tv/000000210/tve/index.m3u8
-#EXTINF:-1 group-title="Музыка",RU.TV
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/45/logo_256_1791960055.webp",RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка",RU.TV
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/45/logo_256_1791960055.webp",RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=6qubqy-0mq5vlBrXgIw2tg&e=2075285611&scheme=https
-#EXTINF:-1 group-title="Музыка",RUTV
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/45/logo_256_1791960055.webp",RUTV
 http://dmi3y-tv.online/hls/CH_RUTV.m3u8
 #EXTINF:-1 group-title="Музыка",Восток ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -550,33 +552,33 @@ http://stream.mcquack.net/276/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,Trace Urban HD
 https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
-#EXTINF:-1 group-title="Музыка",МузТВ
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/93/logo_256.webp",МузТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=g-dGwmTR3WL4Y1nmJtYzhA&e=2092566533&scheme=https
-#EXTINF:-1 group-title="Музыка",BRIDGE
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14/logo_256_1658733588.png",BRIDGE
 http://stream.mcquack.net/318/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/52/logo_256_1660800445.png",BRIDGE TV CLASSIC
 http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE TV DELUXE
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11166/logo_256_1660828570.png",BRIDGE TV DELUXE
 http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE TV Русский Хит
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/46/logo_256_1658733605.png",BRIDGE TV Русский Хит
 http://stream.mcquack.net/320/index.m3u8
 
-#EXTINF:-1 group-title="Музыка",BRIDGE TV Этно
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29338/logo_256.png",BRIDGE TV Этно
 
-#EXTINF:-1 group-title="Музыка",BRIDGE TV FRESH
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/19139/logo_256_1690979070.png",BRIDGE TV FRESH
 
-#EXTINF:-1 group-title="Музыка",BRIDGE TV HITS
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16/logo_256_1658733566.png",BRIDGE TV HITS
 
-#EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/12356/logo_256_1678781216.png",BRIDGE TV ROCK
 
-#EXTINF:-1 group-title="Музыка",BRIDGE TV Шлягер
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/11173/logo_256_1660828534.png",BRIDGE TV Шлягер
 
-#EXTINF:-1 group-title="Музыка",Bridge TV Hits
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/16/logo_256_1658733566.png",Bridge TV Hits
 
-#EXTINF:-1 group-title="Музыка",BABY TIME
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/15674/logo_256_1669288072.png",BABY TIME
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Музыка",Европа плюс ТВ
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/21/logo_256_1658733697.png",Европа плюс ТВ
 http://stream.mcquack.net/184/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
@@ -595,29 +597,29 @@ https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-fighttvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", KHL
 https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Волейбол
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29149/logo_256_1731069588.png",Волейбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=J-48zj8JeVUYOJwqtUdNcg&e=2079350435&scheme=https
 #EXTINF:-1 group-title="Спорт" ,Eurosport 2 HD
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Eurosport 1 HD
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="Спорт" ,ТВ Спорт
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/sportivny.png",ТВ Спорт
 http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Спорт" ,Старт
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10145/logo_256_1660807386.png",Старт
 
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 
-#EXTINF:-1 group-title="Спорт",Матч!
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/157/logo_256.webp",Матч!
 
-#EXTINF:-1 group-title="Спорт",Матч! HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/157/logo_256.webp",Матч! HD
 
 #EXTINF:-1 group-title="Спорт" ,Бокс ТВ
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTxqD1rq/image-43.png" group-title="Спорт",KHL HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/RTxqD1rq/image-43.png",KHL HD
 
 #EXTINF:-1 group-title="Спорт", UFC
 
@@ -680,13 +682,13 @@ https://ucdn.beetv.kz/bpk-tv/000003892/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:-1 group-title="Детям" ,Nick Jr
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
-#EXTINF:-1 group-title="Детям" ,Карусель International
+#EXTINF:-1 group-title="Детям" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/78/logo_256.webp",Карусель International
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
-#EXTINF:-1 group-title="Детям" ,Солнце
+#EXTINF:-1 group-title="Детям" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/77/logo_256.webp",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="Детям" tvg-logo="http://kinowalk.hopto.org/static-content/logo/148?unique=2026-02-20+01%3A57%3A49.533570&access_token=1f146571-2fd6-44f5-9534-64f2c358fc2a",Канал Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
-#EXTINF:-1 group-title="Детям" ,Fox Kids remastered
+#EXTINF:-1 group-title="Детям" tvg-logo="http://kinowalk.hopto.org/static-content/logo/190?unique=2026-02-20+01%3A57%3A49.533570&access_token=eba28ca5-036f-4ab2-ac1d-7509d56d18b6",Fox Kids remastered
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 group-title="Детям" ,Balapan
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
@@ -701,63 +703,63 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Религия" ,Спас
+#EXTINF:-1 group-title="Религия" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/124/logo_256.webp",Спас
 https://ucdn.beetv.kz/bpk-tv/000000247/tve/index.m3u8
-#EXTINF:-1 group-title="Религия" ,Союз HD
+#EXTINF:-1 group-title="Религия" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/123/logo_256_1658737619.png",Союз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Религия" ,МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Религия" ,Радость моя
+#EXTINF:-1 group-title="Религия" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10251/logo_256_1658737368.png",Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 group-title="Религия" ,ТБН
 
 
 
-#EXTINF:-1 group-title="Региональные" ,ТНВ-Планета
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10148/logo_256_1661854990.png",ТНВ-Планета
 https://ucdn.beetv.kz/bpk-tv/000000418/tve/index.m3u8
-#EXTINF:-1 group-title="Региональные",Осетия-Ирыстон
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14869/logo_256_1661855814.png",Осетия-Ирыстон
 https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные",НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные" ,РГВК Дагестан
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10134/logo_256_1655387098.png",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Региональные" ,Кавказ 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31151/logo_256.webp",Кавказ 24
 https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/track_102_93b61749/chunklist.m3u8
 #EXTINF:-1 group-title="Региональные" ,Волгоград 24
 https://live-gtrk.smotrim.ru/vgtrk/volgograd/volgograd24-hd/track_105_1f3a2163/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Самара 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10442/logo_256_1660807211.png",Самара 24
 https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/track_105_c67f9dc0/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Запад 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10631/logo_256.png",Запад 24
 https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/zapad24-hd/track_105_6ee52196/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Восток 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10370/logo_256_1660804651.png",Восток 24
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Сибирь 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/15877/logo_256_1670913510.png",Сибирь 24
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chunklist.m3u8
 #EXTINF:-1 group-title="Региональные" ,Урал 24
 https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e3b/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Арктика 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31130/logo_256.webp",Арктика 24
 https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные",12 канал Омск
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10155/logo_256_1660800324.png",12 канал Омск
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Региональные" ,Миллет
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10361/logo_256_1660805685.png",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 group-title="Региональные",Вся Уфа
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10209/logo_256_1655387069.png",Вся Уфа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=m9z7F40WGem6WP19Q7Dz7g&e=2079350353&scheme=https
 #EXTINF:-1 group-title="Региональные",Матур ТВ HD
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Региональные",Maidan TV HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10230/logo_256_1660805546.png",Maidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Салям HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10428/logo_256_1660807190.png",Салям HD
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Курай-ТВ
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10163/logo_256_1660805461.png",Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" ,БСТ HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10162/logo_256_1660804483.png",БСТ HD
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Региональные" ,Башкортостан 24 HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10249/logo_256_1660804407.png",Башкортостан 24 HD
 https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/track_105_dd0cf289/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Грозный
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10122/logo_256_1660804740.png",Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 
 
