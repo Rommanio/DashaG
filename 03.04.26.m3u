@@ -252,7 +252,6 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=0y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=aTDZUkxtgKzjzV6sp5WJDA&e=2092566504&scheme=https
 
-
 #EXTINF:-1 group-title="Кино", Мир сериала 
 
 #EXTINF:-1 group-title="Кино" ,Феникс+Кино
@@ -362,8 +361,9 @@ https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
+
 #EXTINF:-1 group-title="Развлечение", Ностальгия 
-http://176.118.197.101/Nostalgiya/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Развлечение",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Развлечение",Союзный
@@ -394,7 +394,6 @@ https://stream8.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Хобби", Дикий 
 
-
 #EXTINF:-1 group-title="Хобби",Охотник и Рыболов HD
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" ,Авто Плюс
@@ -403,36 +402,27 @@ https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", The explorers
 http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Орел и Решка
+https://ucdn.beetv.kz/bpk-tv/000009427/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение",Insight TV HD
 http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Развлечение",ИНСАЙТ ТВ HD
-http://dmi3y-tv.online/hls/CH_INSAYT_TVHD.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Домашние животные
+https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение",Investigation Discovery HD
 http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Развлечение",Travel Channel HD
-http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Развлечение",Travel XP HD
-http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Глазами Туриста HD
+https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение",Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tayna.png" group-title="Развлечение" ,Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
-#EXTINF:-1 tvg-name="Неизвестная Планета" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png" group-title="Развлечение" ,Неизвестная Планета
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", DocuBox
 
-
-#EXTINF:-1 group-title="Развлечение" ,Домашние животные
-https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Глазами Туриста HD
-https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,National Geographic HD
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Nat Geo Wild HD
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Орел и Решка
-https://ucdn.beetv.kz/bpk-tv/000009427/tve/index.m3u8
 #EXTINF:-1 group-title="Наука" ,Viju History HD
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Viju Nature HD
