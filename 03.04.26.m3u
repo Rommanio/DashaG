@@ -243,6 +243,12 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=Dx
 #EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/11028.png",Кинолаффка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=fiEJmxR8UnCFPuWoXB5TWQ&e=2079350342&scheme=https
+
+
+
+
+
+
 #EXTINF:-1 group-title="Кино",Кино и Жизнь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=0y4AXckANgiSFXonTWrleg&e=2079350342&scheme=https
@@ -252,6 +258,11 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=0y
 #EXTINF:-1 group-title="Кино",Фильмач
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=aTDZUkxtgKzjzV6sp5WJDA&e=2092566504&scheme=https
+
+
+
+
+
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/143/logo_256_1660809926.png",Феникс+Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
@@ -354,8 +365,14 @@ https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/0293.png",Иллюзион
 https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Кино" ,Вещдок
 https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/9130.png",Семейные Мелодрамы
 https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
@@ -363,7 +380,7 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Развлечение",RTД HD
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://iptvx.one/picons/rt-doc.png",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31249/logo_256.webp",Союзный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -376,7 +393,7 @@ https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10675/logo_256_1658734683.png",Живая природа HD
 https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" tvg-logo="http://1lot.tv/ch/6316.png",Extreme Russian
+#EXTINF:-1 group-title="Развлечение" tvg-logo="http://epg.one/img2/2497.png",Extreme Russian
 https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-logo="http://1lot.tv/ch/10709.png",Охотник и рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -413,7 +430,7 @@ http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение tvg-logo="http://1lot.tv/ch/0136.png",Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tayna.png" group-title="Развлечение" ,Тайна
+#EXTINF:-1 group-title="Развлечение" tvg-logo="https://iptvx.one/picons/tayna.png",Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
 
 #EXTINF:-1 group-title="Развлечение" tvg-logo="http://1lot.tv/ch/117.png", Ностальгия 
@@ -502,24 +519,24 @@ https://ucdn.beetv.kz/bpk-tv/000001564/tve/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" group-title="Музыка",Power Dance
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/8880.png",Radio M2O
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" group-title="Музыка",RTL 102.5 Disco
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png",RTL 102.5 Disco
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w8wgHRr/image-2025-08-31-T114414-385.png" group-title="Музыка",Trance Is Star Radio
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/w8wgHRr/image-2025-08-31-T114414-385.png",Trance Is Star Radio
 https://myradio24.org/tisradio_video.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" group-title="Музыка",4 Kurd
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vCkpnSKt/image-81.png" group-title="Музыка",Russian MusicBox HD
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.ibb.co/vCkpnSKt/image-81.png",Russian MusicBox HD
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://1lot.tv/ch/0256.png",1HD
 https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыка",Музыка Первого
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png",Музыка Первого
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыка",FON Music
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/tnt-music.png",FON Music
 https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10264/logo_256_1658734669.png",Жара HD
 http://stream.mcquack.net/386/index.m3u8
@@ -534,7 +551,7 @@ https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=6qubqy-0mq5vlBrXgIw2tg&e=2075285611&scheme=https
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/45/logo_256_1791960055.webp",RUTV
 http://dmi3y-tv.online/hls/CH_RUTV.m3u8
-#EXTINF:-1 group-title="Музыка",Восток ТВ
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.one/img2/2353.png",Восток ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=LL2RyfeUS02q4w4Y4p_QbA&e=2075285615&scheme=https
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/mezzo.png",Mezzo
@@ -586,7 +603,7 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://1lot.tv/ch/5529.png",FightBox HD
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PXfcSpn/image-22.png" group-title="Спорт",Fight TV Plus
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PXfcSpn/image-22.png",Fight TV Plus
 https://rpn.bozztv.com/gusa/gusa-fighttvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://1lot.tv/ch/1318.png",KHL
 https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
@@ -617,8 +634,6 @@ http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://1lot.tv/ch/7913.png",UFC
 
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://1lot.tv/ch/1325.png",MMA-TV.com
-
-#EXTINF:-1 group-title="Спорт",Конный мир
 
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://1lot.tv/ch/5532.png",Удар HD
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
@@ -657,15 +672,15 @@ https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/709.png",Nickelodeon
 https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
-#EXTINF:-1 group-title="Детям" ,Детский мир
+#EXTINF:-1 group-title="Детям" tvg-logo="http://epg.one/img2/923.png",Детский мир
 https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
-#EXTINF:-1 group-title="Детям" ,Уникум
+#EXTINF:-1 group-title="Детям" tvg-logo="http://epg.one/img2/66.png",Уникум
 https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/2121.png",TiJi
 https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/9401.png",Лапки LIVE
 https://ucdn.beetv.kz/bpk-tv/000008551/tve/index.m3u8
-#EXTINF:-1 group-title="Детям" ,Мультиландия
+#EXTINF:-1 group-title="Детям" tvg-logo="http://epg.one/img2/2757.png",Мультиландия
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/808.png",О!
 https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
@@ -690,7 +705,7 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 
 #EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/19120.png",Мама
 
-#EXTINF:-1 group-title="Детям" ,Ani
+#EXTINF:-1 group-title="Детям" tvg-logo="http://epg.one/img2/2011.png",Ani
 
 #EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/10821.png",Детское кино International
 
@@ -700,7 +715,7 @@ https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000247/tve/index.m3u8
 #EXTINF:-1 group-title="Религия" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/123/logo_256_1658737619.png",Союз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="Религия" ,МузСоюз HD
+#EXTINF:-1 group-title="Религия" tvg-logo="http://epg.one/img2/2413.png",МузСоюз HD
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религия" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10251/logo_256_1658737368.png",Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
@@ -828,7 +843,7 @@ https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" tvg-logo="http://1lot.tv/ch/9125.png",ULYTAU
 https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
 
-#EXTINF:-1 group-title="Казахстанские" ,Aкшам
+#EXTINF:-1 group-title="Казахстанские" tvg-logo="http://epg.one/img2/9174.png",Aкшам
 
 #EXTINF:-1 group-title="Казахстанские" tvg-logo="http://1lot.tv/ch/9123.png",Ertis
 https://ucdn.beetv.kz/bpk-tv/000003248/tve/index.m3u8
