@@ -195,9 +195,9 @@ https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/10253.png",Viju TV1000 Romantica HD
 
-#EXTINF:-1 group-title="Кино",Кинопоказ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2834.png",Кинопоказ
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Кинопоказ
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2834.png",Кинопоказ
 http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/5570.png",Киноужас
@@ -231,6 +231,8 @@ http://kinowalk.hopto.org/movietoper_live
 
 #EXTINF:-1 group-title="Кино" tvg-logo="http://1lot.tv/ch/8212.png",MyTV
 
+#EXTINF:-1 group-title="Кино" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/239?unique=2026-03-03+11%3A23%3A02.745062&access_token=d5965f8e-534f-458b-9634-f0f3bec9d7d3",dj Zour
 http://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtnPSjY/image.png" group-title="Кино", Scripach TV
@@ -681,6 +683,8 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1 group-title="Детям" tvg-logo="http://kinowalk.hopto.org/static-content/logo/190?unique=2026-02-20+01%3A57%3A49.533570&access_token=eba28ca5-036f-4ab2-ac1d-7509d56d18b6",Fox Kids remastered
 http://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1 group-title="Детям" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-logo="http://1lot.tv/ch/8964.png",Balapan
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
 
