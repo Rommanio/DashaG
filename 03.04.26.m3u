@@ -104,6 +104,10 @@ https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/130/logo_256.webp",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=wc2lxs8E3F2M8o_Zck0uTg&e=2079350331&scheme=https
+#EXTINF:-1 group-title="Общие" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/130/logo_256.webp",ТВ3 HD
+http://stream.mcquack.net/136/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ 3 Беларусь
+http://178.124.179.122:8080/TB-3/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/88/logo_256.webp",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/88/logo_256.webp",МИР Int
