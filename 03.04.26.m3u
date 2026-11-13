@@ -728,7 +728,7 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000418/tve/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14869/logo_256_1661855814.png",Осетия-Ирыстон
 https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные",НТРК Ингушетия
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.imgur.com/Fw2Hkk4.png",НТРК Ингушетия
 https://ingushetia.mediacdn.ru/cdn/ingushetia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10134/logo_256_1655387098.png",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
