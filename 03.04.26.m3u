@@ -738,7 +738,7 @@ https://ingushetia.mediacdn.ru/cdn/ingushetia/tracks-v1a1/mono.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31151/logo_256.webp",Кавказ 24
 https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/track_102_93b61749/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Волгоград 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.imgur.com/gFMnaU5.png",Волгоград 24
 https://live-gtrk.smotrim.ru/vgtrk/volgograd/volgograd24-hd/track_105_1f3a2163/chunklist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10442/logo_256_1660807211.png",Самара 24
 https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/track_105_c67f9dc0/chunklist.m3u8
@@ -748,7 +748,7 @@ https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/zapad24-hd/track_105_6ee52196/chu
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/chunklist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/15877/logo_256_1670913510.png",Сибирь 24
 https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/track_105_2da7a401/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" ,Урал 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.imgur.com/eoI4KuB.png",Урал 24
 https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/track_105_4e9e7e3b/chunklist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31130/logo_256.webp",Арктика 24
 https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/track_105_12b117d7/chunklist.m3u8
